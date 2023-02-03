@@ -1,0 +1,56 @@
+/* recipe_style.css */
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: "Copperplate", "Verdana", sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.description {
+    text-align: center;
+    font-family: "Verdana", "Times New Roman", sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+div.container {
+    text-align: center;
+}
+
+li {
+    font-size: 18px;
+    font-family: "Verdana", "Times New Roman", sans-serif;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+    
+}
+
+ul.ingredients {
+    display: inline-block;
+    text-align: left;
+    margin-left: 150px; 
+}
+
+.nutri_info {
+    display: inline;
+    padding: 20px;
+}
+strong {
+    font-size: 24px;
+}

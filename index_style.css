@@ -1,0 +1,35 @@
+/* index_style.css */
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: "Copperplate", "Verdana", sans-serif;
+}
+
+div.container {
+    text-align: center;
+}
+
+ol.recipe_list {
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    font-family: "Verdana", "Times New Roman", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.container .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
